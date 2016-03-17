@@ -1,0 +1,9 @@
+C:\Sachin\Conestoga\MSD Sem1\Software Development Techniques\Assignment1\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe.config
+C:\Sachin\Conestoga\MSD Sem1\Software Development Techniques\Assignment1\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe
+C:\Sachin\Conestoga\MSD Sem1\Software Development Techniques\Assignment1\MemoryGame\MemoryGame\bin\Debug\MemoryGame.pdb
+C:\Sachin\Conestoga\MSD Sem1\Software Development Techniques\Assignment1\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csprojResolveAssemblyReference.cache
+C:\Sachin\Conestoga\MSD Sem1\Software Development Techniques\Assignment1\MemoryGame\MemoryGame\obj\Debug\MemoryGame.exe
+C:\Sachin\Conestoga\MSD Sem1\Software Development Techniques\Assignment1\MemoryGame\MemoryGame\obj\Debug\MemoryGame.pdb
+G:\MSD Sem 1\PROG8145-software development tech\Assignments\Assignment1\Assignment1\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe.config
+G:\MSD Sem 1\PROG8145-software development tech\Assignments\Assignment1\Assignment1\MemoryGame\MemoryGame\obj\Debug\MemoryGame.exe
+G:\MSD Sem 1\PROG8145-software development tech\Assignments\Assignment1\Assignment1\MemoryGame\MemoryGame\obj\Debug\MemoryGame.pdb
